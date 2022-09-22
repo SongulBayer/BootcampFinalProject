@@ -4064,11 +4064,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\songül bayer\\OneDrive\\Masaüstü\\FinalProject\\PycApi.Base\\PycApi.Base.csproj",
+      "projectUniqueName": "C:\\Users\\songül bayer\\OneDrive\\Belgeler\\GitHub\\BootcampFinalProject\\FinalProject\\PycApi.Base\\PycApi.Base.csproj",
       "projectName": "PycApi.Base",
-      "projectPath": "C:\\Users\\songül bayer\\OneDrive\\Masaüstü\\FinalProject\\PycApi.Base\\PycApi.Base.csproj",
+      "projectPath": "C:\\Users\\songül bayer\\OneDrive\\Belgeler\\GitHub\\BootcampFinalProject\\FinalProject\\PycApi.Base\\PycApi.Base.csproj",
       "packagesPath": "C:\\Users\\songül bayer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\songül bayer\\OneDrive\\Masaüstü\\FinalProject\\PycApi.Base\\obj\\",
+      "outputPath": "C:\\Users\\songül bayer\\OneDrive\\Belgeler\\GitHub\\BootcampFinalProject\\FinalProject\\PycApi.Base\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

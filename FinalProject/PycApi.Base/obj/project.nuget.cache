@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KDL3/9CysHdPT0Y6z0Qa1Bl8HyC0OFLKipVAVEF2xrewymK1W9GNKE3yIMJfVttkSWLIwlKdQL9Nk9c/KJ9zag==",
+  "dgSpecHash": "/7imJs0VwKb+n7Xu71OJQehkbWjAd0TYAvcTLdcXLoQXxcB4Y5kK+8Zv8y+udyB8JWbI4j3pFiNjS7HM+vViZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\songül bayer\\OneDrive\\Masaüstü\\FinalProject\\PycApi.Base\\PycApi.Base.csproj",
+  "projectFilePath": "C:\\Users\\songül bayer\\OneDrive\\Belgeler\\GitHub\\BootcampFinalProject\\FinalProject\\PycApi.Base\\PycApi.Base.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\songül bayer\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\songül bayer\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

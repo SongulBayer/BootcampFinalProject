@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/A7W9COK6ymePOjg8K5gVrj8cxcRTRDeNF+fkOIduE9ZTAcDSSqe7/6W6twdKSc0wNEVrueciTZO0e8nyGIC2A==",
+  "dgSpecHash": "VnADyu/owzo5RkOEDxlck9DxTLjmdfzbs/3qPcuOeBStR62Gv59tm+MS3u07e8LLylxn5mKJX8+w6w5DdRNrZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\songül bayer\\OneDrive\\Masaüstü\\FinalProject\\PycApi.WorkerService\\PycApi.WorkerService.csproj",
+  "projectFilePath": "C:\\Users\\songül bayer\\OneDrive\\Belgeler\\GitHub\\BootcampFinalProject\\FinalProject\\PycApi.WorkerService\\PycApi.WorkerService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\songül bayer\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\songül bayer\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

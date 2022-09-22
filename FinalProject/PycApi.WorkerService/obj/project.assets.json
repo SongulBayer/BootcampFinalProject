@@ -1390,11 +1390,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\songül bayer\\OneDrive\\Masaüstü\\FinalProject\\PycApi.WorkerService\\PycApi.WorkerService.csproj",
+      "projectUniqueName": "C:\\Users\\songül bayer\\OneDrive\\Belgeler\\GitHub\\BootcampFinalProject\\FinalProject\\PycApi.WorkerService\\PycApi.WorkerService.csproj",
       "projectName": "PycApi.WorkerService",
-      "projectPath": "C:\\Users\\songül bayer\\OneDrive\\Masaüstü\\FinalProject\\PycApi.WorkerService\\PycApi.WorkerService.csproj",
+      "projectPath": "C:\\Users\\songül bayer\\OneDrive\\Belgeler\\GitHub\\BootcampFinalProject\\FinalProject\\PycApi.WorkerService\\PycApi.WorkerService.csproj",
       "packagesPath": "C:\\Users\\songül bayer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\songül bayer\\OneDrive\\Masaüstü\\FinalProject\\PycApi.WorkerService\\obj\\",
+      "outputPath": "C:\\Users\\songül bayer\\OneDrive\\Belgeler\\GitHub\\BootcampFinalProject\\FinalProject\\PycApi.WorkerService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

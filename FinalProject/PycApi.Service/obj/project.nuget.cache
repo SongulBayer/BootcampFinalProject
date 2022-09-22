@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XEpLZ+EFbgdB85wgP2jtQx+ZFyGERBs0MadZJA0G7kXBTbATZ/3npQiA8W/TDzXW75whb6g7BEXAE6C8tnUA8w==",
+  "dgSpecHash": "ioTTHBYsQ00+Hz49XwiuQamMMrlSzFII1+TOtxuF7g7PBWqh7RAqV3egEJtAfBs0jTAnHptMj/neofWrenBDcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\songül bayer\\OneDrive\\Masaüstü\\FinalProject\\PycApi.Service\\PycApi.Service.csproj",
+  "projectFilePath": "C:\\Users\\songül bayer\\OneDrive\\Belgeler\\GitHub\\BootcampFinalProject\\FinalProject\\PycApi.Service\\PycApi.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\songül bayer\\.nuget\\packages\\antlr3.runtime\\3.5.1\\antlr3.runtime.3.5.1.nupkg.sha512",
     "C:\\Users\\songül bayer\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
