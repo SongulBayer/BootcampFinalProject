@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PycApi.Base\PycApi.Base.csproj" />
+    <ProjectReference Include="..\PycApi.Data\PycApi.Data.csproj" />
+    <ProjectReference Include="..\PycApi.Dto\PycApi.Dto.csproj" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="MailKit" Version="3.4.1" />
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.8" />
+	</ItemGroup>
+	
+</Project>

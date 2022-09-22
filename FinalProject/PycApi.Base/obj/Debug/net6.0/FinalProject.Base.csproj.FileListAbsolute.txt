@@ -1,0 +1,12 @@
+C:\Users\songül bayer\OneDrive\Masaüstü\Bitirme Ödevi\ptk-pyc-webapi-main\dev4\PycApi.Base\bin\Debug\net6.0\FinalProject.Base.deps.json
+C:\Users\songül bayer\OneDrive\Masaüstü\Bitirme Ödevi\ptk-pyc-webapi-main\dev4\PycApi.Base\bin\Debug\net6.0\FinalProject.Base.dll
+C:\Users\songül bayer\OneDrive\Masaüstü\Bitirme Ödevi\ptk-pyc-webapi-main\dev4\PycApi.Base\bin\Debug\net6.0\FinalProject.Base.pdb
+C:\Users\songül bayer\OneDrive\Masaüstü\Bitirme Ödevi\ptk-pyc-webapi-main\dev4\PycApi.Base\obj\Debug\net6.0\FinalProject.Base.csproj.AssemblyReference.cache
+C:\Users\songül bayer\OneDrive\Masaüstü\Bitirme Ödevi\ptk-pyc-webapi-main\dev4\PycApi.Base\obj\Debug\net6.0\FinalProject.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\songül bayer\OneDrive\Masaüstü\Bitirme Ödevi\ptk-pyc-webapi-main\dev4\PycApi.Base\obj\Debug\net6.0\FinalProject.Base.AssemblyInfoInputs.cache
+C:\Users\songül bayer\OneDrive\Masaüstü\Bitirme Ödevi\ptk-pyc-webapi-main\dev4\PycApi.Base\obj\Debug\net6.0\FinalProject.Base.AssemblyInfo.cs
+C:\Users\songül bayer\OneDrive\Masaüstü\Bitirme Ödevi\ptk-pyc-webapi-main\dev4\PycApi.Base\obj\Debug\net6.0\FinalProject.Base.csproj.CoreCompileInputs.cache
+C:\Users\songül bayer\OneDrive\Masaüstü\Bitirme Ödevi\ptk-pyc-webapi-main\dev4\PycApi.Base\obj\Debug\net6.0\FinalProject.Base.dll
+C:\Users\songül bayer\OneDrive\Masaüstü\Bitirme Ödevi\ptk-pyc-webapi-main\dev4\PycApi.Base\obj\Debug\net6.0\refint\FinalProject.Base.dll
+C:\Users\songül bayer\OneDrive\Masaüstü\Bitirme Ödevi\ptk-pyc-webapi-main\dev4\PycApi.Base\obj\Debug\net6.0\FinalProject.Base.pdb
+C:\Users\songül bayer\OneDrive\Masaüstü\Bitirme Ödevi\ptk-pyc-webapi-main\dev4\PycApi.Base\obj\Debug\net6.0\ref\FinalProject.Base.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FbWrRqC9QHGMAbNlP1TsaESYSFNKj5fKYxemiFk8Sn1uqbeSPjnrk9JN/mMuL1N0qzHJCGvTkQBX7vfb1jDGRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\songül bayer\\OneDrive\\Masaüstü\\Bitirme Ödevi\\ptk-pyc-webapi-main\\dev4\\RabbitMq.Consumer\\RabbitMq.Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\songül bayer\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\songül bayer\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\songül bayer\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\songül bayer\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,24 @@
+C:\Users\songül bayer\OneDrive\Masaüstü\Bitirme Ödevi\ptk-pyc-webapi-main\dev4\PycApi.Data\bin\Debug\net6.0\PycApi.Data.deps.json
+C:\Users\songül bayer\OneDrive\Masaüstü\Bitirme Ödevi\ptk-pyc-webapi-main\dev4\PycApi.Data\bin\Debug\net6.0\PycApi.Data.dll
+C:\Users\songül bayer\OneDrive\Masaüstü\Bitirme Ödevi\ptk-pyc-webapi-main\dev4\PycApi.Data\bin\Debug\net6.0\PycApi.Data.pdb
+C:\Users\songül bayer\OneDrive\Masaüstü\Bitirme Ödevi\ptk-pyc-webapi-main\dev4\PycApi.Data\obj\Debug\net6.0\PycApi.Data.csproj.AssemblyReference.cache
+C:\Users\songül bayer\OneDrive\Masaüstü\Bitirme Ödevi\ptk-pyc-webapi-main\dev4\PycApi.Data\obj\Debug\net6.0\PycApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\songül bayer\OneDrive\Masaüstü\Bitirme Ödevi\ptk-pyc-webapi-main\dev4\PycApi.Data\obj\Debug\net6.0\PycApi.Data.AssemblyInfoInputs.cache
+C:\Users\songül bayer\OneDrive\Masaüstü\Bitirme Ödevi\ptk-pyc-webapi-main\dev4\PycApi.Data\obj\Debug\net6.0\PycApi.Data.AssemblyInfo.cs
+C:\Users\songül bayer\OneDrive\Masaüstü\Bitirme Ödevi\ptk-pyc-webapi-main\dev4\PycApi.Data\obj\Debug\net6.0\PycApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\songül bayer\OneDrive\Masaüstü\Bitirme Ödevi\ptk-pyc-webapi-main\dev4\PycApi.Data\obj\Debug\net6.0\PycApi.Data.dll
+C:\Users\songül bayer\OneDrive\Masaüstü\Bitirme Ödevi\ptk-pyc-webapi-main\dev4\PycApi.Data\obj\Debug\net6.0\refint\PycApi.Data.dll
+C:\Users\songül bayer\OneDrive\Masaüstü\Bitirme Ödevi\ptk-pyc-webapi-main\dev4\PycApi.Data\obj\Debug\net6.0\PycApi.Data.pdb
+C:\Users\songül bayer\OneDrive\Masaüstü\Bitirme Ödevi\ptk-pyc-webapi-main\dev4\PycApi.Data\obj\Debug\net6.0\ref\PycApi.Data.dll
+C:\Users\songül bayer\OneDrive\Masaüstü\FinalProject\PycApi.Data\bin\Debug\net6.0\PycApi.Data.deps.json
+C:\Users\songül bayer\OneDrive\Masaüstü\FinalProject\PycApi.Data\bin\Debug\net6.0\PycApi.Data.dll
+C:\Users\songül bayer\OneDrive\Masaüstü\FinalProject\PycApi.Data\bin\Debug\net6.0\PycApi.Data.pdb
+C:\Users\songül bayer\OneDrive\Masaüstü\FinalProject\PycApi.Data\obj\Debug\net6.0\PycApi.Data.csproj.AssemblyReference.cache
+C:\Users\songül bayer\OneDrive\Masaüstü\FinalProject\PycApi.Data\obj\Debug\net6.0\PycApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\songül bayer\OneDrive\Masaüstü\FinalProject\PycApi.Data\obj\Debug\net6.0\PycApi.Data.AssemblyInfoInputs.cache
+C:\Users\songül bayer\OneDrive\Masaüstü\FinalProject\PycApi.Data\obj\Debug\net6.0\PycApi.Data.AssemblyInfo.cs
+C:\Users\songül bayer\OneDrive\Masaüstü\FinalProject\PycApi.Data\obj\Debug\net6.0\PycApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\songül bayer\OneDrive\Masaüstü\FinalProject\PycApi.Data\obj\Debug\net6.0\PycApi.Data.dll
+C:\Users\songül bayer\OneDrive\Masaüstü\FinalProject\PycApi.Data\obj\Debug\net6.0\refint\PycApi.Data.dll
+C:\Users\songül bayer\OneDrive\Masaüstü\FinalProject\PycApi.Data\obj\Debug\net6.0\PycApi.Data.pdb
+C:\Users\songül bayer\OneDrive\Masaüstü\FinalProject\PycApi.Data\obj\Debug\net6.0\ref\PycApi.Data.dll
