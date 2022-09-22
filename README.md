@@ -1,5 +1,5 @@
 # 	:rocket: PayCore .Net/.Net Core Bootcamp Bitirme Projesi
-
+- - - -
 ## Bitirme projesi bir WepApi projesinden oluşmaktadır Generic Repository ve N-Tier Architecture Dwsign kullanılmıştır. Yapılan işlemler sırasıyla aşağıda açıklanmıştır.En son kısımda ise tüm görevler bir liste halinde bulunmaktadır.
  
 ### Yetkilendirme
@@ -23,7 +23,7 @@
 * SOLID Principles
 * SMTP EMail Services
 
-#### Right: Programı ayağa kaldırmak için appsetting.json dosyasındaki connection string kodunu kendinize göre düzenlemeniz yeterli.
+#### Programı ayağa kaldırmak için appsetting.json dosyasındaki connection string kodunu kendinize göre düzenlemeniz yeterli.
 ```
  "ConnectionStrings": {
     "PostgreSqlConnection": "User ID=postgres;Password=PgAdmin şifreniz;Server=localhost;Port=port numaranız;Database=veri tabanı adı;Integrated Security=true;Pooling=true;"
