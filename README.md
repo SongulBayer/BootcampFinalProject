@@ -23,7 +23,7 @@
 * SOLID Principles
 * SMTP EMail Services
 
-#### Programı ayağa kaldırmak için appsetting.json dosyasındaki connection string kodunu kendinize göre düzenlemeniz yeterli.
+#### Right: Programı ayağa kaldırmak için appsetting.json dosyasındaki connection string kodunu kendinize göre düzenlemeniz yeterli.
 ```
  "ConnectionStrings": {
     "PostgreSqlConnection": "User ID=postgres;Password=PgAdmin şifreniz;Server=localhost;Port=port numaranız;Database=veri tabanı adı;Integrated Security=true;Pooling=true;"
