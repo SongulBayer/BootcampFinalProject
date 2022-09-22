@@ -16,4 +16,6 @@
 ### Ürün eklenirken istenilen bilgiler şunlardır: ürün adı, açıklama, kategori, renk, marka, kullanım durumu, fiyat ve teklif opsiyonu.
 
 ### Kullanılar Teknolojiler
- * Automapper
+* Automapper
+* Nhibernate
+* JWT Bearer 
